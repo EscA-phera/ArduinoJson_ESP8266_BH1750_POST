@@ -6,10 +6,10 @@
 # include <Wire.h>
 # include <BH1750.h>
 
-# define SSID "jeong"
-# define PWD "0425433344"
+# define SSID "yourwifiname"
+# define PWD "yourwifipassword"
 
-# define connServer "https://esphera.xyz"
+# define connServer "yourwebsitename"
 # define PORT "80"
 
 String PATH = "/api";
